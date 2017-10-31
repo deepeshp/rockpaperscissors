@@ -1,3 +1,5 @@
+This is MVP version of game backend developed using Spring Boot. 
+
 Design approach :
 *****************
 
